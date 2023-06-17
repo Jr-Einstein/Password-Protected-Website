@@ -14,9 +14,14 @@ This is a simple password protected website that utilizes the `prompt()` functio
 ![image](https://github.com/Jr-Einstein/Password-Protected-Website/assets/79279299/6e8e8673-1a45-4301-a121-dff3f7d94422)
 
 2. The user enters a password in the prompt dialog.
+![image](https://github.com/Jr-Einstein/Password-Protected-Website/assets/79279299/fff6b9d3-fc5a-42bf-ac95-2fbbda5fdeed)
+
 3. The entered password is compared to a pre-defined password stored in the JavaScript code.
 4. If the entered password matches the pre-defined password, the user is granted access to the website.
 5. If the entered password does not match, the user is denied access and an error message is displayed.
+
+   ![image](https://github.com/Jr-Einstein/Password-Protected-Website/assets/79279299/12aa9447-0e62-4725-aed3-49ff058aa60d)
+
 
 ## Getting Started 🚀
 
