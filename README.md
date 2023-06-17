@@ -11,6 +11,8 @@ This is a simple password protected website that utilizes the `prompt()` functio
 ## How It Works 🛠️
 
 1. When the user loads the website, a JavaScript function is triggered to prompt the user for a password.
+![image](https://github.com/Jr-Einstein/Password-Protected-Website/assets/79279299/6e8e8673-1a45-4301-a121-dff3f7d94422)
+
 2. The user enters a password in the prompt dialog.
 3. The entered password is compared to a pre-defined password stored in the JavaScript code.
 4. If the entered password matches the pre-defined password, the user is granted access to the website.
