@@ -56,8 +56,9 @@ if (password === correctPassword) {
 
 This project is licensed under the [MIT License](LICENSE).
 
+## TESTING 🧪
 Feel free to customize and use this password protected website for your own purposes.
-You May Visit The Website By Clicking [Here](https://jr-einstein.github.io/Password-Protected-Website/)
+You May Visit The Website By Clicking [Here.](https://jr-einstein.github.io/Password-Protected-Website/)
 
 ## Contributions 🙌
 
