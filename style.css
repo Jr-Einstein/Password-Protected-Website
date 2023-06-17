@@ -1,0 +1,17 @@
+.access{
+    
+    color: red;
+    margin: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.para{
+    border: 20px;
+    border-color: red;
+    margin-bottom: auto;
+}
