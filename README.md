@@ -62,7 +62,7 @@ You May Visit The Website By Clicking [Here.](https://jr-einstein.github.io/Pass
 
 ## Contributions 🙌
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request , we will try to review and merge as soon as possible.
 
 ## Resources 📚
 
